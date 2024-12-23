@@ -1,2 +1,5 @@
 # namada-cli-tools
-Some scripts and tools to interact with the Namada blockchain from the CLI
+
+## Setup
+1. Set the environment variable `$RPC_MAINNET` to the RPC address of your choice on your system.
+2. Install the `namada` binaries, particularly `namadac` and `namadaw`, and place them in your `$PATH`.
